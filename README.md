@@ -1,7 +1,7 @@
 # taggerRecommender
 A tagger and recommender for web pages based on content.
 
-Original usecase: to recommend related articles and products on dotcom.
+Original usecase: to recommend related articles and products on a site.
 
 ## Dependencies
 
